@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1> Kumar Gaurav </h1>
+    <img src="./ProfileImage.JPG" alt="Photo">
+
+    <ul>
+    <li><h2>Summary</h2></li>
+    <p>I am a result-driven Business Development Manager with 7 years of experience in the Personal Care Appliance category. I have a proven track record of managing an annual turnover of 550 Cr and leading cross-functional teams to drive revenue growth. I excel in developing and executing sales strategies that increase market share, expand customer base, and enhance profitability. My expertise in product development, brand management, and sales enablement has helped me build strong relationships with key stakeholders and achieve business objectives.</p>
+    
+    <li><h2>Education</h2>
+        <ol>
+            <li>MBA in Marketing from <a href="https://www.imt.edu/">IMT Ghaziabad</a></li>
+            <li>BTech in Metallurgy from <a href="http://www.nitrr.ac.in/">NIT Raipur</a></li>
+            <li>Intermediate in PCM from DAV Model School Durgapur</li>
+        </ol>
+    </li>
+
+    <li><h2>Work Experience</h2>
+    <ol>
+       <li> <h3>Category Manager at <a href="https://www.flipkart.com/">Flipkart</a></h3></li>
+            <h4>Jul-2021-to present</h4>
+            <ul>
+                <li>Manage Business Models, Customer & Competition Insights to meet achieve Market Leadership</li>
+                <li>Co-own the P&L and Top Line for Personal Care Appliance by making Flipkart destination of Choice</li>
+                <li>Develop Deep and Long-Term Relationship with Vendors for high Mind Share from the vendor</li>
+                <li>Own Terms of Business, Buying Cost, Portfolio Management for delivering best Value to the Customer</li>
+                <li>Manage Product Placement and Storage for Working capital optimisation and inventory management</li>
+            </ul>
+       
+        <li><h3>Category Manager at <a href="https://ninjacart.in/">Ninjacart</a></h3></li>
+            <h4>Mar-2019 to Jul-2021</h4>
+            <ul>
+                <li>Ownership of P&L, Market Intelligence, Price and Quality benchmarking for commodity in Delhi-NCR</li>
+                <li>Manages communication and coordination of category management efforts across the departments</li>
+                <li>Product Assortment, Merchandising based on market trends, competition, and Buyers Feedback.</li>
+                <li>Monitoring and reviewing of Fulfilment, Rejections, On Time Delivery to improve customer experience</li>
+                <li>Improve category Share, Margin, Average order Value (AOV), GMV/Customer using Adobe Analytics</li>
+                <li>Develop Operating Process, Agreements, and long-term relationship programmes with Trade Partner</li>
+            </ul>
+        <li><h3>Assistnat Category Manager at <a href="https://www.fnp.com/">Ferns and Petals</a></h3></li>
+            <h4>Mar-2018 to Feb-2019</h4>
+            <ul>
+                <li>Driving marketplace growth of the Cakes Category keeping in mind the consumer and competition</li>
+                <li>Responsible for meeting Revenue Targets M.O.M while maintaining Gross Margins and Profitability.</li>
+                <li>Merchandising, Assortment Planning and Create plans to ensure Representation of Category</li>
+                <li>Drive Visibility plans, promotional offering and communicate the product Tactics with the Marketing</li>
+                <li>Plan and Forecast Sales to ensure product availability will reducing Inventory holding Costs</li>
+            </ul>
+        <li><h3>Assistant Manager at <a href="https://www.jindalsteelpower.com/">JSPL</a></h3></li> 
+             <h4>July-2013 to July-2016</h4>
+             <ul>
+                <li>Implementing quality standards and Structured processes for manufacturing operations of machine</li>
+                <li>Creating service standards, quality systems and Operating procedures for meeting business success</li>
+                <li>Monitor process capabilities and recommend ideas for product enhancement and cost optimisation</li>
+                <li>Achieve daily targets through efficiently managing equipment, manpower and material</li>
+                <li>Analyse data and Report performance in terms of quality, safety, and cost to the organisation</li>
+             </ul>
+
+    </ol>
+    </li>
+
+    <li><h2>Skills</h2>
+      <ol>
+            <li>Business Development</li>
+            <li>Sales Strategy</li>
+            <li>Product Development</li>
+            <li>Brand Management</li>
+            <li>Market Analysis</li>
+            <li>Relationship Management</li>
+            <li>Contract Negotiation</li>
+      </ol>
+    </li>
+
+    <li><h2>Awards</h2>
+        <ol>
+            <li>National Runner Up in Marketing strategy case Study competition organised by WYZ games India private Ltd, 2017  </li>
+            <li>Awarded Executive of the month for attaining businesses requirement of lowering Furnace oil consumption by 12%, 2015 </li>
+            <li>Awarded Honours Distinction in B-Tech in Metallurgical Engineering, NIT Raipur, 2013 </li>
+               
+        </ol>
+    </li>
+</ul>
+<hr>
+<a href="https://www.linkedin.com/in/kumar15gaurav/">LinkedIn</a>
+<a href="./Contact.html">ContactNumber</a>
+
+<footer> <small> This is Confidential </small></footer>
+</body>
+</html>
